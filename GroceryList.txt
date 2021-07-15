@@ -1,0 +1,14 @@
+apple
+4.0
+pears 
+3.0
+milk
+2.0
+celery
+3.4
+sprouts
+2.0
+ketchup
+4.0
+mustard
+2.0
